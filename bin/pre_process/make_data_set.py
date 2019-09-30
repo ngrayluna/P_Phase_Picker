@@ -161,8 +161,8 @@ def remove_empty_df(years):
 
 def main():
 	# Absolute path of where .mseed files are
-	mseed_dir = '/Users/Luna/Documents/Master_Thesis/denoise_files/DATA_SETS/ncedc_all/mseed'
-	noise_dir = '/Users/Luna/Documents/Master_Thesis/denoise_files/DATA_SETS/ncedc_all/combined_mseed_test'
+	mseed_dir = './mseed'
+	noise_dir = './combined_mseed'
 
 	# Empty lists need in for loop
 	tmp_rows  = []
