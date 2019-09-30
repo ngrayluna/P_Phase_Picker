@@ -32,7 +32,11 @@ The following is one approach of how to train a Convolutional Neural Network to 
 
 The machine learning workflow stages included are:  
 
-Downloading Seismic Data, Pre-Processing the Data (& Formatting), Defining and Compiling a 1D Convolutional Neural Network, and Training.  
+Downloading Seismic Data, Pre-Processing & Formatting, Defining and Compiling a 1D Convolutional Neural Network, and Training.  
+
+<img src="./imgs/example_waveforms.png">
+
+---
 
 <h2><a name="dependencies">Dependencies:</a></h2>  
 All scripts are written in Python3. The following libraries (and their version) were also used:  
