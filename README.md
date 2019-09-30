@@ -5,8 +5,7 @@
 <img src="./imgs/Neurons-Network_T.jpg">
 
 <p align ="center"> 
-    <font face='Helvetica'><h1><b>Earthquake Phase Picking</b><</h1></font><br>
-    <font face='Helvetica'>Email: nluna{at}berkeley.edu</font>
+    <font face='Helvetica' size='5.6'><b>Earthquake Phase Picking</b></font><br>
 </p>
 
 <img src="./imgs/Neurons-Network_B.jpg">  
@@ -19,6 +18,7 @@
 [How to Use](#how)  
 [Further Reading](#reading)  
 [Links](#links)  
+[Contact]
 
 
 <h2><a name="what">What is This?</a></h2>  
@@ -36,10 +36,10 @@ Downloading Seismic Data, Pre-Processing & Formatting, Defining and Compiling a 
 
 <img src="./imgs/example_waveforms.png">
 
----
 
 <h2><a name="dependencies">Dependencies:</a></h2>  
 All scripts are written in Python3. The following libraries (and their version) were also used:  
+
 * NumPy 1.15.3  
 * ObsPy 1.1.0  
 * Pandas 0.23.0  
