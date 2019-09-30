@@ -2,7 +2,7 @@
 # P_Phase_Picker
 --- -->
 
-<img src="./img/Neurons-Network_T.jpg">
+<img src="./imgs/Neurons-Network_T.jpg">
 <p> <center>
     <font face='Helvetica' size='5.6'><b>Identifying Seismic Waves with Convolutional Neural Networks</b></font>
 </center>
@@ -11,4 +11,4 @@
     </center>
 </p>
 
-<img src="./img/Neurons-Network_B.jpg">  
+<img src="./imgs/Neurons-Network_B.jpg">  
