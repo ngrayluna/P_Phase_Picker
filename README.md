@@ -20,7 +20,7 @@
 * [Links](#links)  
 
 
-<img src="./imgs/example_waveforms.png">
+<img src="./imgs/tutorial_screenshot.png">
 
 
 <h2><a name="about">About</a></h2>  
