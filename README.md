@@ -13,22 +13,22 @@
 
 <h2>Table of Contents</h2>  
 
-[About](#about)  
-[Dependencies](#dependencies)  
-[How to Use](#how)  
-[Further Reading](#reading)  
-[Links](#links)  
+* [About](#about)  
+* [Dependencies](#dependencies)  
+* [How to Use](#how)  
+* [Further Reading](#reading)  
+* [Links](#links)  
 
 
+<img src="./imgs/example_waveforms.png">
 
-[insert screen shot of blog here]  
 
 <h2><a name="about">About</a></h2>  
 The following is one approach of how to train a Convolutional Neural Network to identify the first phase (P-Phase) of an earthquake using time-series data measured on a seismometer. This repository serves as a starting point for those who benefit from seeing an example, from start to finish, of how to using seismic data for training a 1D convolutional neural network. This model has room for improvement and should serve only as a starting point.  
 
 The machine learning workflow stages included are:  
 
-Downloading Seismic Data, Pre-Processing & Formatting, Defining and Compiling a 1D Convolutional Neural Network, and Training.  
+<b>Downloading Seismic Data</b>, <b>Pre-Processing & Formatting</b>, <b>Defining</b> and <b>Compiling a 1D Convolutional Neural Network</b>, and <b>Training</b>.  
 
 
 <img src="./imgs/example_waveforms.png">
@@ -56,7 +56,9 @@ Run the following .py scripts in the following order in order to replicate what 
 * /models/p_phase_picker.py  
 
 
-Make note of where each output directory is stored relative to your home directory.  
+Make note of where each output directory is stored relative to your home directory. 
+
+<h2><a name="reading">Further Reading</a></h2> 
 
 <h2><a name="links">Links</a></h2>  
 * Web Site  
