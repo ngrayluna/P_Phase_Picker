@@ -7,7 +7,9 @@
 
 <img src="./imgs/Neurons-Network_B.jpg">  --> 
 <img src="./imgs/Neurons-Network_T.jpg">
-<center><h3>Identifying Seismic Waves with Convolutional Neural Networks</h3></center>
+<p align='center'>
+	<h3>Identifying Seismic Waves with Convolutional Neural Networks</h3>
+</p>
 <img src="./imgs/Neurons-Network_B.jpg">
 
 
