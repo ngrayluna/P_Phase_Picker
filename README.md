@@ -18,7 +18,6 @@ The machine learning workflow stages included are:
 
 * [Dependencies](#dependencies)  
 * [How to Use](#how)  
-<!-- * [Further Reading](#reading)   -->
 * [Links](#links)   
 
 
