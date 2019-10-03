@@ -13,11 +13,15 @@ The machine learning workflow stages included are:
 
 <b>Downloading Seismic Data</b> --> <b>Pre-Processing & Formatting</b> --> <b>Defining</b> --> <b>Compiling a 1D Convolutional Neural Network</b> --> <b>Training</b> 
 
+<img src="./imgs/three_comp_cnn.png">
+<b>Figure:</b>Schematic of 1D Convolutional Neural Network model used in this tutorial. As input we are using three time-series earthquake records from Northern California Earthquake Data Center. 
+
 
 <h2>Table of Contents</h2>  
 
 * [Dependencies](#dependencies)  
 * [How to Use](#how)  
+* [Acknowledgements](*acknowledgements)
 * [Links](#links)   
 
 
@@ -48,7 +52,8 @@ Run the following .py scripts in the following order in order to replicate what 
 <b>Figure:</b> Example waveforms and their associated first arrival using the [Baer Pick](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/77/4/1437/119016/an-automatic-phase-picker-for-local-and?redirectedFrom=PDF) method (in red) and the machine learning (purple) pick.  
 
 
-<!-- <h2><a name="reading">Further Reading</a></h2>  -->
+<h2><a name="acknowledgements">Acknowledgements</a></h2> 
+Waveform data, metadata, or data products for this study were accessed through the Northern California Earthquake Data Center (NCEDC), doi:10.7932/NCEDC.
 
 <h2><a name="links">Links</a></h2>  
 
