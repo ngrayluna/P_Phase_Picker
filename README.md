@@ -14,7 +14,7 @@ The machine learning workflow stages included are:
 <b>Downloading Seismic Data</b> --> <b>Pre-Processing & Formatting</b> --> <b>Defining</b> --> <b>Compiling a 1D Convolutional Neural Network</b> --> <b>Training</b> 
 
 <img src="./imgs/three_comp_cnn.png">
-<b>Figure:</b>Schematic of 1D Convolutional Neural Network model used in this tutorial. As input we are using three time-series earthquake records from Northern California Earthquake Data Center. 
+<b>Figure:</b> Schematic of 1D convolutional neural network used to identify the first-arriving phase arrival of an earthquake. Note that each instance is composed of three channels, one for each component measuered by the seismometer (Z, N-S, and E-W). 
 
 
 <h2>Table of Contents</h2>  
@@ -59,6 +59,7 @@ Waveform data, metadata, or data products for this study were accessed through t
 
 * Find the blog here: [Identifying Seismic Waves with Convolutional Neural Networks]()
 * <a href = "https://github.com/ngrayluna/P_Phase_Picker">Source Code</a>  
+* [Northern California Earthquake Data Center](http://ncedc.org/index.html)
 
 
 
