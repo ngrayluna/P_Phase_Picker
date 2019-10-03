@@ -7,14 +7,16 @@
 
 <img src="./imgs/Neurons-Network_B.jpg">  --> 
 <img src="./imgs/Neurons-Network_T.jpg">
-<h2>Identifying Seismic Waves with Convolutional Neural Networks</h2>
+<center><h3>Identifying Seismic Waves with Convolutional Neural Networks</h3></center>
 <img src="./imgs/Neurons-Network_B.jpg">
 
 
 <h2><a name="about">About</a></h2>  
 This repository serves two purposes: 1) it is supplementary material for the “Identifying Seismic Waves with Convolutional Neural Networks” tutorial on my website: [insert website name here] and 2) it is a starting point for those who benefit from seeing an example, from start to finish, of how to train a 1D convolutional neural network to pick the first arriving seismic phase. This model has room for improvement and should serve only as a starting point.   
+
 <br>
 The machine learning pipeline stages included in this repository are:  
+
 <br>
 <b>Downloading Seismic Data</b> --> <b>Pre-Processing & Formatting</b> --> <b>Defining</b> --> <b>Compiling a 1D Convolutional Neural Network</b> --> <b>Training</b> 
 
