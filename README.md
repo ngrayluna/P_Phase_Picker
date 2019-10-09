@@ -1,13 +1,5 @@
-<!-- 
 <img src="./imgs/Neurons-Network_T.jpg">
-
-<p align ="center"> 
-    <h3>Earthquake Phase Picking</h3>
-</p>
-
-<img src="./imgs/Neurons-Network_B.jpg">  --> 
-<img src="./imgs/Neurons-Network_T.jpg">
-<p align='center'>
+<p align ="center">
 	<h3>Identifying Seismic Waves with Convolutional Neural Networks</h3>
 </p>
 <img src="./imgs/Neurons-Network_B.jpg">
@@ -66,7 +58,7 @@ Waveform data, metadata, or data products for this study were accessed through t
 
 <h2><a name="links">Links</a></h2>  
 
-* Find the blog here: [Identifying Seismic Waves with Convolutional Neural Networks]()
+* Find the blog here: [Identifying Seismic Waves with Convolutional Neural Networks](https://github.com/ngrayluna/P_Phase_Picker)
 * <a href = "https://github.com/ngrayluna/P_Phase_Picker">Source Code</a>  
 * [Northern California Earthquake Data Center](http://ncedc.org/index.html)
 
