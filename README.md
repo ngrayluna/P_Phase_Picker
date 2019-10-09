@@ -58,7 +58,7 @@ Waveform data, metadata, or data products for this study were accessed through t
 
 <h2><a name="links">Links</a></h2>  
 
-* Find the blog here: [Identifying Seismic Waves with Convolutional Neural Networks](https://github.com/ngrayluna/P_Phase_Picker)
+* Find the blog here: [Identifying Seismic Waves with Convolutional Neural Networks](https://ngrayluna.github.io/post/p-phase-picker-tutorial_pi/)
 * <a href = "https://github.com/ngrayluna/P_Phase_Picker">Source Code</a>  
 * [Northern California Earthquake Data Center](http://ncedc.org/index.html)
 
